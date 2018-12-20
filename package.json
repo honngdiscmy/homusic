@@ -1,0 +1,8 @@
+{
+  "name": "HChatbot",
+  "version": "1.0.0",
+  "description": "Hong Chat Bot",
+  "main": "bot.js",
+  "author": "hong",
+  "dependencies": {}
+}
