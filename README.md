@@ -1,3 +1,3 @@
 # HongBOT
 
-Discord Hong Chat Bot
+ng Chat Bot
